@@ -1,6 +1,12 @@
 #include<iostream>
 using namespace std;
+//approach possiblity
+// 1) countinity
+// 2) two pointer
+// 3) sort
 
+
+// sloved by method 1:-
 int main()
 {
     int arr[100]={1,1,0,0,1,1,1,0,1};
